@@ -45,14 +45,14 @@ public class Horse implements Animal {
 
     @Override
     public void animalPlus() {
-        System.out.println("Will deliver to any place.");
+        System.out.println("Plus hourse: Will deliver to any place.");
 
 
     }
 
     @Override
     public void animalMinus() {
-        System.out.println("There is no minus.");
+        System.out.println("Minus hourse: There is no minus.");
 
     }
 
